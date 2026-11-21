@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# 脚本生成的报告（samples/ 下保留示例）
+out/
